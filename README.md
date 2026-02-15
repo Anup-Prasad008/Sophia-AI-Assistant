@@ -97,7 +97,7 @@ zope.interface==6.4.post2
 
 **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/sophia-ai-assistant.git
+   git clone https://github.com/MrAliHasan/Sophia-AI-Assistant.git
    cd sophia-ai-assistant
 ```
 __To install the necessary dependencies and set up the API and database, I recommend checking out my YouTube tutorial series where I walk you through the entire process of building an AI assistant.__
